@@ -18,3 +18,6 @@ npx supabase init
 ## Links
 - [Better Auth Docs](https://www.better-auth.com/docs)
 - [Supabase Docs](https://supabase.com/docs)
+
+## Supporting Tools
+- **Icons**: [SVGL](https://svgl.app/?ref=dailydev) - Beautiful SVG logos collection
